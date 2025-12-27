@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Thiago Silva! 👋
 
-<!--
-**slvthdev/slvthdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Living in Balneário Camboriú, Brazil
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍏 Currently, I am developing an application that will make it easier for people to control their diet in a simple and technological way. <br>
+
+### What I'm studying 📚
+
+- Building scalable and robust systems following best practice principles such as Clean Architecture.<br>
+- Creating complete applications using React, NodeJS, and AWS. <br>
+- Creating mobile applications with React Native.<br>
+
+### Find me elsewhere 🌎
+
+🐦 [Twitter](https://twitter.com/slvthdev) <br>
