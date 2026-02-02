@@ -1,17 +1,24 @@
-### Hey, I'm Thiago Silva! 👋
+## Hey, I'm Thiago 👋
 
-🇧🇷 Living in Balneário Camboriú, Brazil
+I'm a Brazilian developer who likes to build things with TypeScript, Serverless and React.
 
-### What I'm working on 👨‍💻
+### What I'm working on
 
-🍏 Currently, I am developing an application that will make it easier for people to control their diet in a simple and technological way. <br>
+- An app to help people track their diet using a serverless backend and a mobile experience.
 
-### What I'm studying 📚
+### What I usually work with
 
-- Building scalable and robust systems following best practice principles such as Clean Architecture.<br>
-- Creating complete applications using React, NodeJS, and AWS. <br>
-- Creating mobile applications with React Native.<br>
+- **Backend:** TypeScript, NestJS, Fastify, Express (when it makes sense), AWS Lambda
+- **Cloud / Serverless:** API Gateway, DynamoDB, S3, SQS, SES, Cognito, Serverless Framework
+- **Frontend:** React
+- **Mobile:** React Native
 
-### Find me elsewhere 🌎
+### What I'm delving into
 
-🐦 [Twitter](https://twitter.com/slvthdev) <br>
+- Serverless architectures with AWS.
+- Mobile apps with React Native.
+- Cloudflare Workers and edge computing.
+
+### Find me elsewhere
+
+🐦 [Twitter](https://twitter.com/slvthdev)
